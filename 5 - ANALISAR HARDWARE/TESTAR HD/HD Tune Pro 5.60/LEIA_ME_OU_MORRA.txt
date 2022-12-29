@@ -1,0 +1,7 @@
+Instruções de ativação (Leia atentamente e siga as instruções passo a passo):
+
+Execute como administrador o arquivo "hdtunepro_560_trial" para iniciar a instalação (Clique com o botão direito do mouse sobre o arquivo e selecione "Executar como administrador");
+Atenção: No final da instalação, DESMARQUE a opção "Launch HD Tune Pro" e NÃO inicie o programa ainda;
+Extraia o arquivo "HDTunePro" que está na pasta "Crack" e cole em:
+C:\Arquivos de programas (x86)\HD Tune Pro
+Substitua o arquivo original e inicie o programa.

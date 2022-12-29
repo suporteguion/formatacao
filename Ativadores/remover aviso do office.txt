@@ -1,0 +1,11 @@
+INSTRUÇÕES:
+
+Executar cmd como administrador
+COPIAR E COLAR
+PASSO 1 : 
+cd “\Program Files\Common Files\microsoft shared\ClickToRun”
+
+PASSO 2 - 
+OfficeC2rclient.exe /update user updatetoversion=16.0.13801.20266
+
+Ele vai atualizar e pronto depois só desabilitar a atualização do Office
